@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "AURORA",
+  "base_artist": "Eir Aoi",
+  "createdAt": "2025-12-10T05:45:13.460055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fuck You Aurora",
+      "artist": "Alkaline Trio",
+      "has_synced": true,
+      "path": "select/01_Fuck_You_Aurora_Alkaline_Trio.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aurora",
+      "artist": "Midnight Juggernauts",
+      "has_synced": false,
+      "path": "select/02_Aurora_Midnight_Juggernauts.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aurora Borealis",
+      "artist": "Meat Puppets",
+      "has_synced": false,
+      "path": "select/03_Aurora_Borealis_Meat_Puppets.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aurora",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/04_Aurora_Björk.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aurora (opiate version)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/05_Aurora_(opiate_version)_Björk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aurora B.",
+      "artist": "Krisma",
+      "has_synced": false,
+      "path": "select/06_Aurora_B._Krisma.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aurora",
+      "artist": "DEADLIFE",
+      "has_synced": false,
+      "path": "select/07_Aurora_DEADLIFE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Strange Timez - Robert Smith AURORA Remix",
+      "artist": "Gorillaz feat. Robert Smith",
+      "has_synced": true,
+      "path": "select/08_Strange_Timez_-_Robert_Smith_AURORA_Remix_Gorillaz_feat._Robert_Smith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aurora Borealis",
+      "artist": "Einherjer",
+      "has_synced": true,
+      "path": "select/09_Aurora_Borealis_Einherjer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AURORA",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_01_AURORA_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "AURORA",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_02_AURORA_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "AURORA",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_03_AURORA_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "AURORA",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_04_AURORA_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "AURORA",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_05_AURORA_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "AURORA",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_06_AURORA_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "AURORA",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_07_AURORA_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "AURORA",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_08_AURORA_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "AURORA (TV Version)",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_09_AURORA_(TV_Version)_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "AURORA (TV Size Ver.)",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_10_AURORA_(TV_Size_Ver.)_藍井エイル.txt"
+    }
+  ]
+}
